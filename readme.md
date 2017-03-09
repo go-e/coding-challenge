@@ -1,8 +1,8 @@
-## Colony frontend coding challenge
+## Frontend coding challenge
 
 You'll be building a simple react component: an avatar picker. It looks like this:
 
-![Pick an avatar](https://github.com/JoinColony/coding-challenge/raw/master/avatar_picker.gif "Pick me!")
+![Pick an avatar](https://github.com/go-e/coding-challenge/raw/master/avatar_picker.gif "Pick me!")
 
 The user clicks on the avatar to open a popover which allows the user to choose another avatar from the list. After a click a (fake) HTTP request is made (while a loading spinner runs), the popover closes and the new avatar will appear in the inital view.
 
@@ -79,8 +79,8 @@ The user clicks on the avatar to open a popover which allows the user to choose 
 
 * The results have to be shared as a git repository
 * You can either create a private repository on your favourite git hosting provider (github, gitlab, bitbucket) and then give access to
-  * chris@colony.io
-  * thiago@colony.io
+  * jonas.bergert@goessential.com
+  * ckl@goessential.com
 * Or create a public repository and send the link to both of these email addresses
 * Or send the whole repository, zipped (including the `.git` directory) to both of these email addresses
 * Important note: please only submit your work when it is completely done!
